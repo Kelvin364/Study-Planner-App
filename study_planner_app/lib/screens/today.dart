@@ -83,7 +83,7 @@ class _TodayScreenState extends State<TodayScreen> {
                 return Dismissible(
                   key: ValueKey<String>(task.id),
                   background: Container(
-                    color: Colors.red,
+                    color: Colors.blue,
                     alignment: Alignment.centerRight,
                     padding: const EdgeInsets.symmetric(horizontal: 16),
                     child: const Icon(Icons.delete, color: Colors.white),

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Bumbogo extends StatelessWidget {
-  const Bumbogo({super.key});
+class setup extends StatelessWidget {
+  const setup({super.key});
 
   @override
   Widget build(BuildContext context) {
