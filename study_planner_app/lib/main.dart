@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Study Planner',
+      title: 'My Tasks',
       theme: ThemeData(fontFamily: 'Lexend', brightness: Brightness.dark),
       home: const HomeScaffold(),
     );
