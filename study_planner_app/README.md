@@ -1,6 +1,6 @@
 # My Mobile App
 
-A new Flutter project called "Study task planner app"
+A new Flutter project called "Study task planner app" , Designed for the users to add task get reminders , store locally datathrough json and get reminders upon on time
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ lib/
 
 Clone the repository
 
-```bash   git clone https://github.com/yourusername/study_planner_app.git
+bash   git clone https://github.com/yourusername/study_planner_app.git
    cd study_planner_app 
 
 # Install dependencies
